@@ -1,0 +1,12 @@
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\DataAccess.dll
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\DataAccess.pdb
+G:\Ali\Projects\ZilatanBot\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+G:\Ali\Projects\ZilatanBot\DataAccess\obj\Debug\DataAccess.dll
+G:\Ali\Projects\ZilatanBot\DataAccess\obj\Debug\DataAccess.pdb
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\DataAccess.dll.config
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\DomainModel.dll
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\EntityFramework.dll
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\DomainModel.pdb
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\EntityFramework.xml
+G:\Ali\Projects\ZilatanBot\DataAccess\bin\Debug\EntityFramework.SqlServer.xml

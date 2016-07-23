@@ -1,0 +1,10 @@
+G:\Ali\Projects\ZilatanBot\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\DomainModel.dll.config
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\DomainModel.dll
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\DomainModel.pdb
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\EntityFramework.dll
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\EntityFramework.xml
+G:\Ali\Projects\ZilatanBot\DomainModel\bin\Debug\EntityFramework.SqlServer.xml
+G:\Ali\Projects\ZilatanBot\DomainModel\obj\Debug\DomainModel.dll
+G:\Ali\Projects\ZilatanBot\DomainModel\obj\Debug\DomainModel.pdb
