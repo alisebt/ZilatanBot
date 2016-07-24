@@ -8,6 +8,9 @@ namespace ZilatanBot
 {
     public class TelegramHelper
     {
+        //here is token defenition
+        private string token = "";
+
         public static string GetMe()
         {
             var client = new RestClient("https://api.telegram.org/bot233919755:AAEo7iH806AMN7wdQSfPdpb_5UUd-UAEHZ8/getMe");
