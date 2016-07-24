@@ -10,6 +10,7 @@ namespace ZilatanBot
     {
         //here is token defenition
         private string token = "";
+        //this is not usabel now
 
         public static string GetMe()
         {
