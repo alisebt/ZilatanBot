@@ -9,7 +9,13 @@ namespace ZilatanBot
     public class TelegramHelper
     {
         //here is token defenition
+        //here is token defenition
+        //here is token defenition
+        //here is token defenition
         private string token = "";
+        //this is not usabel now
+        //this is not usabel now
+        //this is not usabel now
         //this is not usabel now
 
         public static string GetMe()
